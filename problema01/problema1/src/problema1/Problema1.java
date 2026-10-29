@@ -8,8 +8,9 @@ package problema1;
 import java.util.Locale;
 import java.util.Scanner;
 /**
+ * 
  *
- * @author SALASC
+ * @author HP
  */
 public class Problema1 {
 
@@ -49,12 +50,8 @@ public class Problema1 {
         gasto_mensual = gasto1 + gasto2 + gasto3;
         
         System.out.printf("CONTROL DE GASTOS DE PROYECTOS\nProyectos:\n------\n"
-                + "1. %s: $%.2f\n2. %s: $%.2f\n3. %s: $%.2f\n-------\nGASTO MENSUAL TOTAL: $%.2f\n" , proyecto1,
-                gasto1, proyecto2, gasto2,proyecto3, gasto3, gasto_mensual );
-        
-        
-        
-        
+                + "1. %s: $%.2f\n2. %s: $%.2f\n3. %s: $%.2f\n-------\nGASTO MENSUAL TOTAL: $%.2f\n" ,
+                proyecto1, gasto1, proyecto2, gasto2,proyecto3, gasto3, gasto_mensual );
     }
     
 }
