@@ -63,7 +63,7 @@ public class Problema5 {
         ahorroMensual = netflixDescont + ytpDescont + dropboxDescont + spotifyDescont;
         valorTotal = valorDesnf + valorDesytp + valorDesdrop + valorspot;
         
-        System.out.printf("Nombre cliente: %s\n"
+        System.out.printf("Nombre del cliente: %s\n"
                 + "Valor de descuento de netflix: $%.2f"
                 + "\nValor de descuento de Youtube Premium: $%.2f\n"
                 + "Valor de descuento de Dropbox: $%.2f\n"
@@ -73,7 +73,7 @@ public class Problema5 {
                 + "Precio final de Youtube Premium: $%.2f\n"
                 + "Precio final de Dropbox: $%.2f\n"
                 + "Precio final de Spotify: $%.2f\n"
-                +"-----------------------------------\n"
+                +"------------------------------------\n"
                 + "EL costo mensual de los serivicios sin descuentos es: $%.2f\n"
                 + "El ahorro mensual del cliente: $%.2f\n"
                 + "El valor total despues de apllicar las promociones: $%.2f\n",
