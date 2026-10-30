@@ -2,16 +2,16 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package problema3;
-
+package problema03;
 
 import java.util.Locale;
 import java.util.Scanner;
+
 /**
  *
  * @author HP
  */
-public class Problema3 {
+public class Problema03 {
 
     /**
      * @param args the command line arguments
@@ -55,7 +55,6 @@ public class Problema3 {
                 + "VALOR TOTAL A PAGAR: $%.2f\n"
                 + "=============================================\n",
                 titular, direccion, costoMinuto, minutosConsumidos, valorTotal);
-    
     }
     
 }
