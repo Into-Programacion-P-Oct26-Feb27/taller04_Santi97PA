@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package problema03;
+package problema3;
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author HP
  */
-public class Problema03 {
+public class Problema3 {
 
     /**
      * @param args the command line arguments
